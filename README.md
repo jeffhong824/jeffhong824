@@ -1,6 +1,6 @@
 ### Hi, I'm Jeff 👋😎
 
-![J's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffhong824&show_icons=true&theme=radical)
 
 Hi, I'm Jeff 😎, a graduate student that previously focused on 🧐 medical domain of Natural Language Processing using ML&DL techniques.
 Now seeking for Machine Learning Engineer & Data Scientist position 👍👍👍.
