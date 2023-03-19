@@ -32,6 +32,26 @@
 
 
 Awards 🏆:
+★ 2022交通數據創新應用競賽已上線組-績優獎
+台灣ㄟ虛擬導遊APP - Virtual tour guide in Taiwan
+基於觀光景點與CCTV AI景點局部天氣、人流與車流估測，結合社群媒體打造智慧導遊服務
+
+★ 2021資料創新應用競賽-金獎
+Intelligent traffic management solution based on AIOT
+以智慧電桿、AI影像辨識、停車格管理、車機打造安全智慧城市
+
+★ 2021通訊大賽「聯網未來挑戰賽」優秀作品出爐，後疫情時代的新商機與新應用-入圍獎
+智慧航廈之量能AIOT解決方案
+資通訊技術提升機場服務品質，優化旅客使用體驗
+
+★ 2020 COLING-SMM4H Workshop & Shared task 5th/16:
+Medication Mention Detection in Tweets Using ELECTRA Transformers and Decision Trees
+結合ELECTRA Transformers與Decision Trees應用於社群媒體上極度不平衡之醫藥文本分類
+
+★ 2020科技部AI計畫:
+應用於居家照護之智慧型互動平台-應用於醫療場域及居家照護之智慧型互動平台-以人工智慧為核心之腦波人機介面開發
+- The post-stroke epilepsy EEG database
+基於腦電圖小波分析之中風病人癲癇偵測研究
 
 <!--
 **jeffhong824/jeffhong824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
