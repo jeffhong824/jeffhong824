@@ -32,7 +32,7 @@
 
 ### Awards 🏆:   
 
-🥇 2022交通數據創新應用競賽已上線組-績優獎   
+- 🥇 2022交通數據創新應用競賽已上線組-績優獎   
 台灣ㄟ虛擬導遊APP - Virtual tour guide in Taiwan   
 基於觀光景點與CCTV AI景點局部天氣、人流與車流估測，結合社群媒體打造智慧導遊服務   
 相關連結:   
@@ -60,7 +60,7 @@ Medication Mention Detection in Tweets Using ELECTRA Transformers and Decision T
 
 🥇 2020科技部AI計畫:   
 應用於居家照護之智慧型互動平台-應用於醫療場域及居家照護之智慧型互動平台-以人工智慧為核心之腦波人機介面開發   
-- The post-stroke epilepsy EEG database   
+The post-stroke epilepsy EEG database   
 基於腦電圖小波分析之中風病人癲癇偵測研究   
 相關連結:   
 [Ai Taiwan-創新研究：AI技術創新研究開發](https://lnkd.in/gFPPiYnW)   
