@@ -32,40 +32,40 @@
 
 ### Awards 🏆:   
 
-🥇 2022交通數據創新應用競賽已上線組-績優獎
-台灣ㄟ虛擬導遊APP - Virtual tour guide in Taiwan
-基於觀光景點與CCTV AI景點局部天氣、人流與車流估測，結合社群媒體打造智慧導遊服務
-相關連結:
-[交通部打造交通數據生態 擘劃未來城市前景](https://lnkd.in/guWwqva7)
-[交通數據創新應用競賽-明日之星](https://lnkd.in/g7uagvUQ)
-[交通數據創新應用競賽-互動人氣王](https://lnkd.in/g9D8CPnK)
+🥇 2022交通數據創新應用競賽已上線組-績優獎   
+台灣ㄟ虛擬導遊APP - Virtual tour guide in Taiwan   
+基於觀光景點與CCTV AI景點局部天氣、人流與車流估測，結合社群媒體打造智慧導遊服務   
+相關連結:   
+[交通部打造交通數據生態 擘劃未來城市前景](https://lnkd.in/guWwqva7)   
+[交通數據創新應用競賽-明日之星](https://lnkd.in/g7uagvUQ)   
+[交通數據創新應用競賽-互動人氣王](https://lnkd.in/g9D8CPnK)   
 
-🥇 2021資料創新應用競賽-金獎
-Intelligent traffic management solution based on AIOT
-以智慧電桿、AI影像辨識、停車格管理、車機打造安全智慧城市
-相關連結:
-[資料創新應用競賽頒獎](https://www.facebook.com/permalink.php?story_fbid=1262259131069719&id=312112366084405)
+🥇 2021資料創新應用競賽-金獎   
+Intelligent traffic management solution based on AIOT   
+以智慧電桿、AI影像辨識、停車格管理、車機打造安全智慧城市   
+相關連結:   
+[資料創新應用競賽頒獎](https://www.facebook.com/permalink.php?story_fbid=1262259131069719&id=312112366084405)   
 
-🥇 2021通訊大賽「聯網未來挑戰賽」優秀作品出爐，後疫情時代的新商機與新應用-入圍獎
-智慧航廈之量能AIOT解決方案
-資通訊技術提升機場服務品質，優化旅客使用體驗
-相關連結:
-[2021通訊大賽「聯網未來挑戰賽」優秀作品出爐，後疫情時代的新商機與新應用](https://www.techbang.com/posts/91893-2021-mobileheroes-connect-future-outstanding-works)
+🥇 2021通訊大賽「聯網未來挑戰賽」優秀作品出爐，後疫情時代的新商機與新應用-入圍獎   
+智慧航廈之量能AIOT解決方案   
+資通訊技術提升機場服務品質，優化旅客使用體驗   
+相關連結:   
+[2021通訊大賽「聯網未來挑戰賽」優秀作品出爐，後疫情時代的新商機與新應用](https://www.techbang.com/posts/91893-2021-mobileheroes-connect-future-outstanding-works)    
 
-🥇 2020 COLING-SMM4H Workshop & Shared task 5th/16:
-Medication Mention Detection in Tweets Using ELECTRA Transformers and Decision Trees
-結合ELECTRA Transformers與Decision Trees應用於社群媒體上極度不平衡之醫藥文本分類
-相關連結:
-[ACL Anthology](https://aclanthology.org/2020.smm4h-1.23/)
+🥇 2020 COLING-SMM4H Workshop & Shared task 5th/16:   
+Medication Mention Detection in Tweets Using ELECTRA Transformers and Decision Trees   
+結合ELECTRA Transformers與Decision Trees應用於社群媒體上極度不平衡之醫藥文本分類   
+相關連結:   
+[ACL Anthology](https://aclanthology.org/2020.smm4h-1.23/)   
 
-🥇 2020科技部AI計畫:
-應用於居家照護之智慧型互動平台-應用於醫療場域及居家照護之智慧型互動平台-以人工智慧為核心之腦波人機介面開發
-- The post-stroke epilepsy EEG database
-基於腦電圖小波分析之中風病人癲癇偵測研究
-相關連結:
-[Ai Taiwan-創新研究：AI技術創新研究開發](https://lnkd.in/gFPPiYnW)
-[人工智慧普適研究中心 PAIR Labs-居家照護組](https://lnkd.in/g-mi_EJz)
-[國立中央大學研究計畫](https://lnkd.in/gvtC_2X6)
+🥇 2020科技部AI計畫:   
+應用於居家照護之智慧型互動平台-應用於醫療場域及居家照護之智慧型互動平台-以人工智慧為核心之腦波人機介面開發   
+- The post-stroke epilepsy EEG database   
+基於腦電圖小波分析之中風病人癲癇偵測研究   
+相關連結:   
+[Ai Taiwan-創新研究：AI技術創新研究開發](https://lnkd.in/gFPPiYnW)   
+[人工智慧普適研究中心 PAIR Labs-居家照護組](https://lnkd.in/g-mi_EJz)   
+[國立中央大學研究計畫](https://lnkd.in/gvtC_2X6)   
 
 <!--
 **jeffhong824/jeffhong824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
