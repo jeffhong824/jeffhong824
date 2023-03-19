@@ -30,7 +30,8 @@
 
 
 
-### Awards 🏆:  
+### Awards 🏆:   
+
 🥇 2022交通數據創新應用競賽已上線組-績優獎
 台灣ㄟ虛擬導遊APP - Virtual tour guide in Taiwan
 基於觀光景點與CCTV AI景點局部天氣、人流與車流估測，結合社群媒體打造智慧導遊服務
