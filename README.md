@@ -52,7 +52,8 @@ Intelligent traffic management solution based on AIOT
 相關連結:   
 [2021通訊大賽「聯網未來挑戰賽」優秀作品出爐，後疫情時代的新商機與新應用](https://www.techbang.com/posts/91893-2021-mobileheroes-connect-future-outstanding-works)    
 
-🥇 2020 COLING-SMM4H Workshop & Shared task 5th/16:   
+🥇 2020 第五屆國際社群媒體探勘之健康應用工作坊暨評測競賽 | COLING-SMM4H Workshop & Shared task - 5th:   
+任務1: Automatic classification of tweets that mention medications
 Medication Mention Detection in Tweets Using ELECTRA Transformers and Decision Trees   
 結合ELECTRA Transformers與Decision Trees應用於社群媒體上極度不平衡之醫藥文本分類   
 相關連結:   
