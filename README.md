@@ -31,9 +31,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 🤖 Robot simulator
-![Webots](https://img.shields.io/badge/Webots-%23013243.svg?style=for-the-badge&logo=Webots&logoColor=white)
+![Webots](https://img.shields.io/badge/Webots-red?style=for-the-badge&logo=Webots&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-blue?style=for-the-badge&logo=blender&logoColor=orange)
-![Solidworks](https://img.shields.io/badge/Solidworks-orange?style=for-the-badge&logo=solidworks&logoColor=orange)
+![Solidworks](https://img.shields.io/badge/Solidworks-red?style=for-the-badge&logo=solidworks&logoColor=red)
 
 
 
