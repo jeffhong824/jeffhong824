@@ -1,5 +1,7 @@
 ### Hi, I'm Jeff 👋😎
 
+![image](https://user-images.githubusercontent.com/61589737/226789338-66e8a220-b750-4019-ad7d-43574e31592e.png)
+
 我是一位專長於資料科學、機器學習和深度學習經驗的工程師👨‍💻，專精於訊號處理和自然語言處理領域。我的專業應用範疇涵蓋智慧醫療等多個領域。自完成碩士學位後，我即進入職場，致力於研發工作🧐💡。我熱衷於將理論知識應用於實務中，以解決當前市場上尚未解決的痛點議題🤔，例如中風後癲癇腦電波偵測🩺、社群媒體中醫學文字偵測🌐、疾病和微生物Biomarker和檢測基因的知識圖譜🧬、Digital twins👥、預測性維護🛠️等等。我不定期在GitHub上分享我的成果和心得，歡迎各位對資料科學和機器學習領域感興趣的同行研究人員瀏覽我的GitHub。  
 
 📋 Languages  
@@ -27,6 +29,8 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Webots](https://img.shields.io/badge/Webots-orange?style=for-the-badge&logo=webots&logoColor=orange)
 
 
 
