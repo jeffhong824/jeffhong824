@@ -30,7 +30,10 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Webots](https://img.shields.io/badge/Webots-orange?style=for-the-badge&logo=webots&logoColor=orange)
+🤖 Robot simulator
+![Webots](https://img.shields.io/badge/Webots-%23013243.svg?style=for-the-badge&logo=Webots&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=orange)
+![Solidworks](https://img.shields.io/badge/Solidworks-orange?style=for-the-badge&logo=solidworks&logoColor=orange)
 
 
 
