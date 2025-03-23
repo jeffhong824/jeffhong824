@@ -17,13 +17,13 @@ I specialize in natural language processing, computer vision, and signal process
 ![MNE](https://img.shields.io/badge/MNE-%231DA1F2.svg?&logo=MNE&logoColor=white)
 
 
-🤖 NLP Related
+🤖 NLP Related  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
-🖥️ Data Science Libraries
+🖥️ Data Science Libraries  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
@@ -36,36 +36,38 @@ I specialize in natural language processing, computer vision, and signal process
 ![Blender](https://img.shields.io/badge/Blender-blue?&logo=blender&logoColor=orange)
 ![Solidworks](https://img.shields.io/badge/Solidworks-red?&logo=solidworks&logoColor=red)
 
-🔖 Version Control 
+🔖 Version Control  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
 
-🖼️ Deployment Framework
+🖼️ Deployment Framework  
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-☁️ Cloud System
+☁️ Cloud System  
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
-💻 Code Editor
+💻 Code Editor  
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-🖥️ Operating System
+🖥️ Operating System  
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-📄 Documentation
+<!--
+📄 Documentation  
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+-->
 
 ### Awards 🏆:   
 
-🥇 2022交通數據創新應用競賽已上線組-績優獎   
+🥇 2022交通數據創新應用競賽已上線組-績優獎(1st)   
 Virtual Tour Guide [交通部](https://lnkd.in/guWwqva7)、[明日之星](https://lnkd.in/g7uagvUQ)、[互動人氣王](https://lnkd.in/g9D8CPnK)   
 
 🥇 2021資料創新應用競賽-金獎   
@@ -78,9 +80,8 @@ Smart Airport Capacity AIOT Solution [通訊大賽優秀作品](https://www.tech
 任務1: Automatic classification of tweets that mention medications
 [ACL 2020.smm4h](https://aclanthology.org/2020.smm4h-1.23/)   
 
-🥇 2020科技部AI計畫:   
-應用於居家照護之智慧型互動平台-應用於醫療場域及居家照護之智慧型互動平台-以人工智慧為核心之腦波人機介面開發   
-基於腦電圖小波分析之中風病人癲癇偵測研究   [Ai Taiwan-創新研究：AI技術創新研究開發](https://lnkd.in/gFPPiYnW)、[人工智慧普適研究中心 PAIR Labs-居家照護組](https://lnkd.in/g-mi_EJz)、[國立中央大學研究計畫](https://lnkd.in/gvtC_2X6)   
+🥇 2020科技部AI計畫: 應用於醫療場域及居家照護之智慧型互動平台-以人工智慧為核心之腦波人機介面開發     
+基於腦電圖小波分析之中風病人癲癇偵測研究   [Ai Taiwan-創新研究](https://lnkd.in/gFPPiYnW)、[PAIR Labs-居家照護組](https://lnkd.in/g-mi_EJz) 
 
 <!--
 **jeffhong824/jeffhong824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
