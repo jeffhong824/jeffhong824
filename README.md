@@ -8,13 +8,13 @@ I specialize in natural language processing, computer vision, and signal process
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
 🖥️ ML/DL Libraries  
-![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-%23D42029.svg?style=for-the-badge&logo=NLTK&logoColor=white)
-![MNE](https://img.shields.io/badge/MNE-%231DA1F2.svg?style=for-the-badge&logo=MNE&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23D42029.svg?&logo=NLTK&logoColor=white)
+![MNE](https://img.shields.io/badge/MNE-%231DA1F2.svg?&logo=MNE&logoColor=white)
 
 
 🤖 NLP Related
@@ -24,22 +24,22 @@ I specialize in natural language processing, computer vision, and signal process
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
 🖥️ Data Science Libraries
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?&logo=selenium&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?&logo=neo4j&logoColor=white)
 
 🤖 Robot simulator   
-![Webots](https://img.shields.io/badge/Webots-red?style=for-the-badge&logo=Webots&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-blue?style=for-the-badge&logo=blender&logoColor=orange)
-![Solidworks](https://img.shields.io/badge/Solidworks-red?style=for-the-badge&logo=solidworks&logoColor=red)
+![Webots](https://img.shields.io/badge/Webots-red?&logo=Webots&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-blue?&logo=blender&logoColor=orange)
+![Solidworks](https://img.shields.io/badge/Solidworks-red?&logo=solidworks&logoColor=red)
 
 🔖 Version Control 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
 
 🖼️ Deployment Framework
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
